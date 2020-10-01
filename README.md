@@ -16,4 +16,6 @@ The project demonstrates the following skills:
 * Facial recognition using the OpenCV computer vision library
 * Working with files and directories in Python, including zip folders  
   
-Note: in addition to libraries specified in requirements.txt, the project requires installation of Tesseract to run
+Notes:
+* In addition to libraries specified in requirements.txt, the project requires installation of Tesseract to run
+* Git Large File Storage (LFS) is required to clone the repo
