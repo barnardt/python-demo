@@ -1,6 +1,7 @@
-# Demonstration portfolio project in Python
-### Python 3 Programming Specialisation
-### *University of Michigan (via Coursera)*
+## Demonstration portfolio project in Python
+### Image manipulation, OCR and facial recognition
+This was the final project for the Python 3 Programming specialisation offered by the University of Michigan on Coursera.  
+  
 This project does the following:
 * Extracts image files (newspaper pages) from zip folders
 * Extracts text from the images using OCR
